@@ -1,0 +1,332 @@
+[02-03-2021 18:04:35 INFO]: Creating database cmds
+[02-03-2021 18:04:35 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:04:35 INFO]: Running on localhost:11000
+[02-03-2021 18:04:51 INFO]: Inserting new cmd: ls
+[02-03-2021 18:04:51 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e7e434f50010329a9dafa')} created with index 603e7e434f50010329a9dafa
+[02-03-2021 18:04:51 INFO]: Adding task ls to the queue
+[02-03-2021 18:10:31 INFO]: Creating database cmds
+[02-03-2021 18:10:31 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:10:31 INFO]: Running on localhost:11000
+[02-03-2021 18:10:38 INFO]: Inserting new cmd: ls
+[02-03-2021 18:10:38 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e7f9ead447df57ddae181')} created with index 603e7f9ead447df57ddae181
+[02-03-2021 18:10:38 INFO]: Adding task ls to the queue
+[02-03-2021 18:11:55 INFO]: Creating database cmds
+[02-03-2021 18:11:55 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:11:55 INFO]: Running on localhost:11000
+[02-03-2021 18:11:57 INFO]: Inserting new cmd: ls
+[02-03-2021 18:11:57 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e7fed5d239f0db95d3c66')} created with index 603e7fed5d239f0db95d3c66
+[02-03-2021 18:11:57 INFO]: Adding task ls to the queue
+[02-03-2021 18:15:43 INFO]: Creating database cmds
+[02-03-2021 18:15:43 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:15:43 INFO]: Running on localhost:11000
+[02-03-2021 18:15:50 INFO]: Inserting new cmd: ls
+[02-03-2021 18:15:50 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e80d6e4fab88f96c8c2d0')} created with index 603e80d6e4fab88f96c8c2d0
+[02-03-2021 18:15:50 INFO]: Adding task ls to the queue
+[02-03-2021 18:16:17 INFO]: Creating database cmds
+[02-03-2021 18:16:17 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:16:17 INFO]: Running on localhost:11000
+[02-03-2021 18:16:20 INFO]: Inserting new cmd: ls
+[02-03-2021 18:16:20 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e80f4b4f2391307b5b8b8')} created with index 603e80f4b4f2391307b5b8b8
+[02-03-2021 18:16:20 INFO]: Adding task ls to the queue
+[02-03-2021 18:16:20 INFO]: Executing cmd l
+[02-03-2021 18:16:20 INFO]: Output is CompletedProcess(args='l', returncode=127)
+[02-03-2021 18:17:31 INFO]: Creating database cmds
+[02-03-2021 18:17:31 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:17:31 INFO]: Running on localhost:11000
+[02-03-2021 18:17:33 INFO]: Inserting new cmd: ls
+[02-03-2021 18:17:33 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e813da3e242ed814c2c09')} created with index 603e813da3e242ed814c2c09
+[02-03-2021 18:17:33 INFO]: Adding task ls to the queue
+[02-03-2021 18:17:33 INFO]: Executing cmd l
+[02-03-2021 18:17:33 INFO]: Output is CompletedProcess(args='l', returncode=127)
+[02-03-2021 18:17:33 ERROR]: No task to process
+[02-03-2021 18:17:34 ERROR]: No task to process
+[02-03-2021 18:17:35 ERROR]: No task to process
+[02-03-2021 18:17:36 ERROR]: No task to process
+[02-03-2021 18:17:37 ERROR]: No task to process
+[02-03-2021 18:17:38 ERROR]: No task to process
+[02-03-2021 18:17:39 ERROR]: No task to process
+[02-03-2021 18:17:40 ERROR]: No task to process
+[02-03-2021 18:17:41 ERROR]: No task to process
+[02-03-2021 18:17:42 ERROR]: No task to process
+[02-03-2021 18:17:43 ERROR]: No task to process
+[02-03-2021 18:17:44 ERROR]: No task to process
+[02-03-2021 18:17:45 ERROR]: No task to process
+[02-03-2021 18:17:46 ERROR]: No task to process
+[02-03-2021 18:17:47 ERROR]: No task to process
+[02-03-2021 18:17:48 ERROR]: No task to process
+[02-03-2021 18:17:49 ERROR]: No task to process
+[02-03-2021 18:17:50 ERROR]: No task to process
+[02-03-2021 18:17:51 ERROR]: No task to process
+[02-03-2021 18:17:52 ERROR]: No task to process
+[02-03-2021 18:17:53 ERROR]: No task to process
+[02-03-2021 18:17:54 ERROR]: No task to process
+[02-03-2021 18:17:55 ERROR]: No task to process
+[02-03-2021 18:17:56 ERROR]: No task to process
+[02-03-2021 18:17:57 ERROR]: No task to process
+[02-03-2021 18:17:58 ERROR]: No task to process
+[02-03-2021 18:17:59 ERROR]: No task to process
+[02-03-2021 18:18:00 ERROR]: No task to process
+[02-03-2021 18:18:01 ERROR]: No task to process
+[02-03-2021 18:18:02 ERROR]: No task to process
+[02-03-2021 18:18:03 ERROR]: No task to process
+[02-03-2021 18:18:04 ERROR]: No task to process
+[02-03-2021 18:18:05 ERROR]: No task to process
+[02-03-2021 18:18:06 ERROR]: No task to process
+[02-03-2021 18:18:07 ERROR]: No task to process
+[02-03-2021 18:18:08 ERROR]: No task to process
+[02-03-2021 18:18:09 ERROR]: No task to process
+[02-03-2021 18:18:10 ERROR]: No task to process
+[02-03-2021 18:18:11 ERROR]: No task to process
+[02-03-2021 18:18:12 ERROR]: No task to process
+[02-03-2021 18:18:13 ERROR]: No task to process
+[02-03-2021 18:18:14 ERROR]: No task to process
+[02-03-2021 18:18:15 ERROR]: No task to process
+[02-03-2021 18:18:16 ERROR]: No task to process
+[02-03-2021 18:18:17 ERROR]: No task to process
+[02-03-2021 18:18:18 ERROR]: No task to process
+[02-03-2021 18:18:19 ERROR]: No task to process
+[02-03-2021 18:18:20 ERROR]: No task to process
+[02-03-2021 18:18:21 ERROR]: No task to process
+[02-03-2021 18:18:22 ERROR]: No task to process
+[02-03-2021 18:18:23 ERROR]: No task to process
+[02-03-2021 18:18:24 ERROR]: No task to process
+[02-03-2021 18:18:25 ERROR]: No task to process
+[02-03-2021 18:18:26 ERROR]: No task to process
+[02-03-2021 18:18:27 ERROR]: No task to process
+[02-03-2021 18:18:28 ERROR]: No task to process
+[02-03-2021 18:18:29 ERROR]: No task to process
+[02-03-2021 18:18:30 ERROR]: No task to process
+[02-03-2021 18:18:31 ERROR]: No task to process
+[02-03-2021 18:18:32 ERROR]: No task to process
+[02-03-2021 18:18:33 ERROR]: No task to process
+[02-03-2021 18:18:34 ERROR]: No task to process
+[02-03-2021 18:18:35 ERROR]: No task to process
+[02-03-2021 18:18:36 ERROR]: No task to process
+[02-03-2021 18:18:37 ERROR]: No task to process
+[02-03-2021 18:18:38 ERROR]: No task to process
+[02-03-2021 18:18:39 ERROR]: No task to process
+[02-03-2021 18:18:40 ERROR]: No task to process
+[02-03-2021 18:18:41 ERROR]: No task to process
+[02-03-2021 18:18:42 ERROR]: No task to process
+[02-03-2021 18:18:43 ERROR]: No task to process
+[02-03-2021 18:18:44 ERROR]: No task to process
+[02-03-2021 18:18:45 ERROR]: No task to process
+[02-03-2021 18:18:46 ERROR]: No task to process
+[02-03-2021 18:18:47 ERROR]: No task to process
+[02-03-2021 18:18:48 ERROR]: No task to process
+[02-03-2021 18:18:49 ERROR]: No task to process
+[02-03-2021 18:18:50 ERROR]: No task to process
+[02-03-2021 18:18:51 ERROR]: No task to process
+[02-03-2021 18:18:52 ERROR]: No task to process
+[02-03-2021 18:18:53 ERROR]: No task to process
+[02-03-2021 18:18:54 ERROR]: No task to process
+[02-03-2021 18:18:55 ERROR]: No task to process
+[02-03-2021 18:18:56 ERROR]: No task to process
+[02-03-2021 18:18:57 ERROR]: No task to process
+[02-03-2021 18:18:58 ERROR]: No task to process
+[02-03-2021 18:18:59 ERROR]: No task to process
+[02-03-2021 18:19:00 ERROR]: No task to process
+[02-03-2021 18:19:01 ERROR]: No task to process
+[02-03-2021 18:19:02 ERROR]: No task to process
+[02-03-2021 18:19:03 ERROR]: No task to process
+[02-03-2021 18:19:04 ERROR]: No task to process
+[02-03-2021 18:19:05 ERROR]: No task to process
+[02-03-2021 18:19:06 ERROR]: No task to process
+[02-03-2021 18:19:07 ERROR]: No task to process
+[02-03-2021 18:19:08 ERROR]: No task to process
+[02-03-2021 18:19:09 ERROR]: No task to process
+[02-03-2021 18:19:10 ERROR]: No task to process
+[02-03-2021 18:19:11 ERROR]: No task to process
+[02-03-2021 18:19:12 ERROR]: No task to process
+[02-03-2021 18:19:13 ERROR]: No task to process
+[02-03-2021 18:19:14 ERROR]: No task to process
+[02-03-2021 18:19:15 ERROR]: No task to process
+[02-03-2021 18:19:16 ERROR]: No task to process
+[02-03-2021 18:19:17 ERROR]: No task to process
+[02-03-2021 18:19:18 ERROR]: No task to process
+[02-03-2021 18:19:20 ERROR]: No task to process
+[02-03-2021 18:19:21 ERROR]: No task to process
+[02-03-2021 18:19:22 ERROR]: No task to process
+[02-03-2021 18:19:23 ERROR]: No task to process
+[02-03-2021 18:19:24 ERROR]: No task to process
+[02-03-2021 18:19:25 ERROR]: No task to process
+[02-03-2021 18:19:26 ERROR]: No task to process
+[02-03-2021 18:19:27 ERROR]: No task to process
+[02-03-2021 18:19:28 ERROR]: No task to process
+[02-03-2021 18:19:29 ERROR]: No task to process
+[02-03-2021 18:19:30 ERROR]: No task to process
+[02-03-2021 18:19:31 ERROR]: No task to process
+[02-03-2021 18:19:32 ERROR]: No task to process
+[02-03-2021 18:19:33 ERROR]: No task to process
+[02-03-2021 18:19:34 ERROR]: No task to process
+[02-03-2021 18:19:35 ERROR]: No task to process
+[02-03-2021 18:19:36 ERROR]: No task to process
+[02-03-2021 18:19:37 ERROR]: No task to process
+[02-03-2021 18:19:38 ERROR]: No task to process
+[02-03-2021 18:19:39 ERROR]: No task to process
+[02-03-2021 18:19:40 ERROR]: No task to process
+[02-03-2021 18:19:41 ERROR]: No task to process
+[02-03-2021 18:19:42 ERROR]: No task to process
+[02-03-2021 18:19:43 ERROR]: No task to process
+[02-03-2021 18:19:44 ERROR]: No task to process
+[02-03-2021 18:19:45 ERROR]: No task to process
+[02-03-2021 18:19:46 ERROR]: No task to process
+[02-03-2021 18:19:47 ERROR]: No task to process
+[02-03-2021 18:19:48 ERROR]: No task to process
+[02-03-2021 18:19:49 ERROR]: No task to process
+[02-03-2021 18:19:50 ERROR]: No task to process
+[02-03-2021 18:19:51 ERROR]: No task to process
+[02-03-2021 18:19:52 ERROR]: No task to process
+[02-03-2021 18:19:53 ERROR]: No task to process
+[02-03-2021 18:19:54 ERROR]: No task to process
+[02-03-2021 18:19:55 ERROR]: No task to process
+[02-03-2021 18:19:56 ERROR]: No task to process
+[02-03-2021 18:19:57 ERROR]: No task to process
+[02-03-2021 18:19:58 ERROR]: No task to process
+[02-03-2021 18:19:59 ERROR]: No task to process
+[02-03-2021 18:20:00 ERROR]: No task to process
+[02-03-2021 18:20:01 ERROR]: No task to process
+[02-03-2021 18:20:02 ERROR]: No task to process
+[02-03-2021 18:20:03 ERROR]: No task to process
+[02-03-2021 18:20:04 ERROR]: No task to process
+[02-03-2021 18:20:05 ERROR]: No task to process
+[02-03-2021 18:20:06 ERROR]: No task to process
+[02-03-2021 18:20:07 ERROR]: No task to process
+[02-03-2021 18:20:08 ERROR]: No task to process
+[02-03-2021 18:20:09 ERROR]: No task to process
+[02-03-2021 18:20:10 ERROR]: No task to process
+[02-03-2021 18:20:11 ERROR]: No task to process
+[02-03-2021 18:20:12 ERROR]: No task to process
+[02-03-2021 18:30:12 INFO]: Creating database cmds
+[02-03-2021 18:30:12 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:30:12 INFO]: Running on localhost:11000
+[02-03-2021 18:30:23 INFO]: Inserting new cmd: ls
+[02-03-2021 18:30:23 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e843f18abb9bd4897d138')} created with index 603e843f18abb9bd4897d138
+[02-03-2021 18:30:23 INFO]: Adding task ls to the queue
+[02-03-2021 18:33:05 INFO]: Creating database cmds
+[02-03-2021 18:33:05 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:33:05 INFO]: Running on localhost:11000
+[02-03-2021 18:35:58 INFO]: Creating database cmds
+[02-03-2021 18:35:58 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:35:58 INFO]: Running on localhost:11000
+[02-03-2021 18:39:46 INFO]: Creating database cmds
+[02-03-2021 18:39:46 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:39:46 INFO]: Running on localhost:11000
+[02-03-2021 18:39:52 INFO]: Inserting new cmd: ls
+[02-03-2021 18:39:52 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8678aab250e93e2ad561')} created with index 603e8678aab250e93e2ad561
+[02-03-2021 18:39:52 INFO]: Adding task ls to the queue
+[02-03-2021 18:40:05 INFO]: Finding element 603e855e0680900999abe967
+[02-03-2021 18:40:09 INFO]: Finding element 603e8678aab250e93e2ad561
+[02-03-2021 18:46:20 INFO]: Creating database cmds
+[02-03-2021 18:46:20 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:46:20 INFO]: Running on localhost:11000
+[02-03-2021 18:46:37 INFO]: Inserting new cmd: ls
+[02-03-2021 18:46:37 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e880dd9b71c177ccfc06a')} created with index 603e880dd9b71c177ccfc06a
+[02-03-2021 18:46:37 INFO]: Adding task ls to the queue
+[02-03-2021 18:46:47 INFO]: Creating database cmds
+[02-03-2021 18:46:47 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:46:47 INFO]: Running on localhost:11000
+[02-03-2021 18:46:50 INFO]: Inserting new cmd: ls
+[02-03-2021 18:46:50 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e881afa29f4b8b1c505b0')} created with index 603e881afa29f4b8b1c505b0
+[02-03-2021 18:46:50 INFO]: Adding task ls to the queue
+[02-03-2021 18:48:17 INFO]: Creating database cmds
+[02-03-2021 18:48:17 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:48:17 INFO]: Running on localhost:11000
+[02-03-2021 18:48:19 INFO]: Inserting new cmd: ls
+[02-03-2021 18:48:19 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e88731a36e6158f279d47')} created with index 603e88731a36e6158f279d47
+[02-03-2021 18:48:19 INFO]: Adding task ls to the queue
+[02-03-2021 18:48:32 INFO]: Inserting new cmd: ls
+[02-03-2021 18:48:32 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e88801a36e6158f279d48')} created with index 603e88801a36e6158f279d48
+[02-03-2021 18:48:32 INFO]: Adding task ls to the queue
+[02-03-2021 18:49:18 INFO]: Creating database cmds
+[02-03-2021 18:49:18 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:49:18 INFO]: Running on localhost:11000
+[02-03-2021 18:49:19 INFO]: Inserting new cmd: ls
+[02-03-2021 18:49:19 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e88af4a75f15893a61129')} created with index 603e88af4a75f15893a61129
+[02-03-2021 18:49:19 INFO]: Adding task ls to the queue
+[02-03-2021 18:49:35 INFO]: Finding element 603e8678aab250e93e2ad561
+[02-03-2021 18:49:40 INFO]: Finding element 603e88af4a75f15893a61129
+[02-03-2021 18:51:43 INFO]: Creating database cmds
+[02-03-2021 18:51:43 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:51:43 INFO]: Running on localhost:11000
+[02-03-2021 18:51:44 INFO]: Inserting new cmd: ls
+[02-03-2021 18:51:44 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e894031482e86aa3b3072')} created with index 603e894031482e86aa3b3072
+[02-03-2021 18:51:44 INFO]: Adding task ls to the queue
+[02-03-2021 18:51:47 INFO]: Finding element 603e89172219f61a51077426
+[02-03-2021 18:54:12 INFO]: Creating database cmds
+[02-03-2021 18:54:12 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:54:13 INFO]: Running on localhost:11000
+[02-03-2021 18:54:14 INFO]: Inserting new cmd: ls
+[02-03-2021 18:54:14 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e89d67bb9676d6b940fdb')} created with index 603e89d67bb9676d6b940fdb
+[02-03-2021 18:54:14 INFO]: Adding task ls to the queue
+[02-03-2021 18:54:20 INFO]: Finding element 603e89172219f61a51077426
+[02-03-2021 18:58:34 INFO]: Creating database cmds
+[02-03-2021 18:58:34 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 18:58:34 INFO]: Running on localhost:11000
+[02-03-2021 18:58:34 INFO]: Inserting new cmd: ls
+[02-03-2021 18:58:34 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8ada3ca7a22db97c3c05')} created with index 603e8ada3ca7a22db97c3c05
+[02-03-2021 18:58:34 INFO]: Adding task ls to the queue
+[02-03-2021 18:58:43 INFO]: Finding element 603e8ada3ca7a22db97c3c05
+[02-03-2021 18:59:01 INFO]: Finding element 603e8ada3ca7a22db97c3c05
+[02-03-2021 18:59:03 INFO]: Finding element 603e8ada3ca7a22db97c3c05
+[02-03-2021 18:59:04 INFO]: Finding element 603e8ada3ca7a22db97c3c05
+[02-03-2021 19:03:38 INFO]: Creating database cmds
+[02-03-2021 19:03:38 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 19:03:38 INFO]: Running on localhost:11000
+[02-03-2021 19:03:40 INFO]: Inserting new cmd: ls
+[02-03-2021 19:03:40 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8c0cca39e93c9d077f90')} created with index 603e8c0cca39e93c9d077f90
+[02-03-2021 19:03:40 INFO]: Adding task ls to the queue
+[02-03-2021 19:04:20 INFO]: Creating database cmds
+[02-03-2021 19:04:20 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 19:04:21 INFO]: Running on localhost:11000
+[02-03-2021 19:04:24 INFO]: Inserting new cmd: ls
+[02-03-2021 19:04:24 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8c387370129025e79320')} created with index 603e8c387370129025e79320
+[02-03-2021 19:04:24 INFO]: Adding task ls to the queue
+[02-03-2021 19:04:27 INFO]: Inserting new cmd: ls
+[02-03-2021 19:04:27 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8c3b7370129025e79321')} created with index 603e8c3b7370129025e79321
+[02-03-2021 19:04:27 INFO]: Adding task ls to the queue
+[02-03-2021 19:04:49 INFO]: Creating database cmds
+[02-03-2021 19:04:49 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 19:04:49 INFO]: Running on localhost:11000
+[02-03-2021 19:04:50 INFO]: Inserting new cmd: ls
+[02-03-2021 19:04:50 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8c52226947a797f979e3')} created with index 603e8c52226947a797f979e3
+[02-03-2021 19:04:50 INFO]: Adding task ls to the queue
+[02-03-2021 19:05:30 INFO]: Creating database cmds
+[02-03-2021 19:05:30 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 19:05:30 INFO]: Running on localhost:11000
+[02-03-2021 19:05:34 INFO]: Inserting new cmd: ls
+[02-03-2021 19:05:34 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8c7e53903ae34b21dee8')} created with index 603e8c7e53903ae34b21dee8
+[02-03-2021 19:05:34 INFO]: Adding task ls to the queue
+[02-03-2021 19:06:01 INFO]: Creating database cmds
+[02-03-2021 19:06:01 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 19:06:01 INFO]: Running on localhost:11000
+[02-03-2021 19:06:02 INFO]: Inserting new cmd: ls
+[02-03-2021 19:06:02 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8c9a4daa8d00730e88c4')} created with index 603e8c9a4daa8d00730e88c4
+[02-03-2021 19:06:02 INFO]: Adding task ls to the queue
+[02-03-2021 19:06:04 INFO]: Inserting new cmd: ls
+[02-03-2021 19:06:04 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8c9c4daa8d00730e88c5')} created with index 603e8c9c4daa8d00730e88c5
+[02-03-2021 19:06:04 INFO]: Adding task ls to the queue
+[02-03-2021 19:06:05 INFO]: Inserting new cmd: ls
+[02-03-2021 19:06:05 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8c9d4daa8d00730e88c6')} created with index 603e8c9d4daa8d00730e88c6
+[02-03-2021 19:06:05 INFO]: Adding task ls to the queue
+[02-03-2021 19:06:06 INFO]: Inserting new cmd: ls
+[02-03-2021 19:06:06 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8c9e4daa8d00730e88c7')} created with index 603e8c9e4daa8d00730e88c7
+[02-03-2021 19:06:06 INFO]: Adding task ls to the queue
+[02-03-2021 19:06:06 INFO]: Inserting new cmd: ls
+[02-03-2021 19:06:06 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8c9e4daa8d00730e88c8')} created with index 603e8c9e4daa8d00730e88c8
+[02-03-2021 19:06:06 INFO]: Adding task ls to the queue
+[02-03-2021 19:06:52 INFO]: Creating database cmds
+[02-03-2021 19:06:52 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 19:06:52 INFO]: Running on localhost:11000
+[02-03-2021 19:06:53 INFO]: Inserting new cmd: ls
+[02-03-2021 19:06:53 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8ccd9dc625f3dd07f7ae')} created with index 603e8ccd9dc625f3dd07f7ae
+[02-03-2021 19:06:53 INFO]: Adding task ls to the queue
+[02-03-2021 19:06:55 INFO]: Inserting new cmd: ls
+[02-03-2021 19:06:55 INFO]: New entry {'cmd': 'ls', '_id': ObjectId('603e8ccf9dc625f3dd07f7af')} created with index 603e8ccf9dc625f3dd07f7af
+[02-03-2021 19:06:55 INFO]: Adding task ls to the queue
+[02-03-2021 19:07:27 INFO]: Creating database cmds
+[02-03-2021 19:07:27 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 19:07:27 INFO]: Running on localhost:11000
+[02-03-2021 19:08:21 INFO]: Creating database cmds
+[02-03-2021 19:08:21 INFO]: Client: MongoClient(host=['localhost:27017'], document_class=dict, tz_aware=False, connect=True)
+[02-03-2021 19:08:21 INFO]: Running on localhost:11000
