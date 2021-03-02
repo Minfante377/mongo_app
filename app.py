@@ -25,7 +25,7 @@ def new_task():
         return jsonify({'error': 'cmd field is not present'})
     _id = db.add_task(cmd)
     queue.add_task(cmd, _id)
-    return jsonify({'id': str(_id)})
+    return jsonify({"id": str(_id)})
 
 
 @api.route('/get_output/<_id>', methods=['GET'])
@@ -43,7 +43,7 @@ def get_output(_id):
     output = db.get_output(_id)
     if not output:
         return jsonify({'error': "id {} not found".format(_id)})
-    return jsonify({'output': output.get('output')})
+    return jsonify({"output": output.get('output')})
 
 
 if __name__ == '__main__':
